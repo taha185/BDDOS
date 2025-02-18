@@ -1,9 +1,11 @@
 @echo off
 title DDOS Tool made by taha185
 color 0a
+echo _________________________________________
 echo you are using this tool at your risk 
 echo Shout to you :]
-timeout 1
+echo _________________________________________
+timeout 3
 cls
 set /p ip="Enter target IP: "
 
